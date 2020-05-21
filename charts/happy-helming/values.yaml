@@ -8,4 +8,5 @@ version: 'latest'
 
 # Service Specific Values
 frontend:
-  image: 474054470595.dkr.ecr.us-east-1.amazonaws.com/devel-ecrdo-rdbs11ku8lqm
+  image: 474054470595.dkr.ecr.us-east-1.amazonaws.com/helmp-ecrdo-1j78l7mo8l18w
+
