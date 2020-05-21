@@ -32,6 +32,7 @@ spec:
       containers:
         - name: hello-k8s
           image: {{ .Values.frontend.image }}:{{ .Values.version }}
+          imagePullPolicy: {{ .Values.frontend.imagePullPolicy }}
           securityContext:
             privileged: false
             readOnlyRootFilesystem: true
