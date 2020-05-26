@@ -9,5 +9,5 @@ version: 'latest'
 
 image:
   tag: latest
-  repository: 474054470595.dkr.ecr.us-east-1.amazonaws.com/helmc-ecrdo-f4t99bbokbfd
+  repository: 474054470595.dkr.ecr.us-east-1.amazonaws.com/pipel-ecrdo-1n04fybbtlk5n
   imagePullPolicy: Always
