@@ -10,4 +10,4 @@ version: 'latest'
 image:
   tag: latest
   repository: 474054470595.dkr.ecr.us-east-1.amazonaws.com/exter-ecrdo-wcu0xdu0y35e
-  imagePullPolicy: Always
+  pullPolicy: Always
